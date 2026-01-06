@@ -1,2 +1,3 @@
 # PORTFOLIO
-Software developer focused on building scalable web applications, solving real-world problems, and showcasing impactful projects using modern technologies.
+
+Description-Results-driven software developer showcasing production-ready projects, clean architecture, and strong problem-solving skills across frontend, backend, and modern web technologies.
